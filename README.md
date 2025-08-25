@@ -21,6 +21,6 @@ Founder of **CodeForge Studio** – building modern, scalable, and user-friendly
 ---
 
 ## 📫 How to reach me
-- ✉️ Email: **robert.codeforgestudio@gmail.com**  
+- ✉️ Email: **robert@codeforgestudio.no**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/robert-filep-417146264)  
 - 🐙 [CodeForge Studio GitHub](https://github.com/CodeForge-Studio)  
